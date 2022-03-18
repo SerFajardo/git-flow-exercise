@@ -14,6 +14,10 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Asparagus with Cranberries](recipe/feb/asparagus-with-cranberries.md)
 
+### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
+
+[Chocolate Soup](recipe/jan/chocolate-soup.md)
+
 
 ##Last Month's Favorites
 
@@ -29,17 +33,3 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
 
-
-## Last Month's favorites
-
-### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) | cubapud@flavor.magazine
-
-[Oatmeal Pancakes](recipe/feb/cuba-pudding-jr.md)
-
-### [Eggs Benny](writer/eggs-benny.md) | englishmuffin@flavor.magazine
-
-[Asparagus with Cranberries](recipe/feb/asparagus-with-cranberries.md)
-
-### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
-
-[Chocolate Soup](recipe/jan/chocolate-soup.md)
